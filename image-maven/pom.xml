@@ -53,7 +53,7 @@
                 </executions>
                 <configuration>
                     <skip>false</skip>
-                    <mainClass>idealworld.train.graalvm.image.ImageReflectExample</mainClass>
+                    <mainClass>idealworld.train.graalvm.image.ImageMavenExample</mainClass>
                     <imageName>ImageMavenExample</imageName>
                     <buildArgs>
                         --no-fallback
