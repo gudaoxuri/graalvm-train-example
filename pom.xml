@@ -63,6 +63,7 @@
         <module>nashorn</module>
         <module>jsr223</module>
         <module>polyglot</module>
+        <module>multithreading</module>
         <module>image-maven</module>
         <module>image-json</module>
         <module>performance/java</module>

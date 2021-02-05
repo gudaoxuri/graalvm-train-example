@@ -20,7 +20,7 @@ public class NashornExample {
         var javaFuns = "var $ = Java.type('idealworld.train.graalvm.nashorn.NashornExample.JavaTools')\n";
         // 添加测试方法，该方法中调用了Java函数
         var testFuns = "function add(x, y){\n" +
-                "  var result = x +y\n" +
+                "  var result = x + y\n" +
                 "  $.log('x + y = ' + result)\n" +
                 "  return result\n" +
                 "}";
